@@ -1,3 +1,5 @@
+package LearningCurve;
+
 import java.util.Scanner;
 
 public class AllEvenNumbersWithWhile {
